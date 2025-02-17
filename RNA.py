@@ -2,8 +2,8 @@ import pentagon.py
 import element.py
 class RNA():
     def Uracil():
-        "O"  
-        "||"
+       "O"  
+      "||"
     "//  \NH"
     "||  |\\O"
       "\NH/"   
