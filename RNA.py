@@ -7,19 +7,19 @@ class RNA():
     "//  \NH"
     "||  |\\O"
       "\NH/"   
-    def Cytosine ():
+    def Cytosine():
        "NH2"
         "|"
        "/ \\N"
        "||  |"
        "|| \\O"
        "\NH/"   
-    def Adenine ():
+    def Adenine():
        "//N\/NH2\\N"
        "/  ||     |"
        "\  ||     |"
        "\NH/\ N  //" 
-    def Guanine ():
+    def Guanine():
              "O"
             "| |"  
        "//N\/NH2\\N"
