@@ -1,12 +1,12 @@
 import hexagon.py
 import HCNO.py
 class DNA():
-   def Thymine():
-        "O"  
-        "||"
-   "CH2\/  |\NH"
-      "|   |\\O"
-       "\NH/"   
+    def Thymine():
+         "O"  
+         "||"
+    "CH2\/  |\NH"
+       "|   |\\O"
+        "\NH/"   
     def Cytosine():
        "NH2"
         "|"
